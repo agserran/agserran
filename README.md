@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **42 Madrid Fundación Telefónica**
 
-- 🌱 I’m currently learning **C, C++ and python**
+- 🌱 I’m currently learning **C, C++, Cairo and python**
 
 - 📫 How to reach me **agustinsscc01@gmail.com**
 
